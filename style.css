@@ -1,10 +1,10 @@
 body {
-  background-color: #fff;
+  background-color: #222;
   font-family: verdana, sans-serif;
 }
 
 .container {
-  width: 450px;
+  width: 420px;
   min-height: 300px;
   margin: 50px auto;
   padding: 100px;
@@ -14,7 +14,7 @@ body {
 }
 
 .container h1 {
-  text-decoration: underline 20px yellow;
+  text-decoration: underline 20px #ffff00;
 }
 
 .bottom {
@@ -23,9 +23,9 @@ body {
   font-size: 0.8em;
 }
 
-.bottom p {
+/* .bottom p {
   /* text-align: center; */
-}
+} */
 
 h1 {
   font-size: 60px;
