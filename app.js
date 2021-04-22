@@ -16,5 +16,5 @@ function multiply(x, y) {
 
 let x = 7, y = 4;
 let result = calc(add, x, y);
-let result = calc(multiply, x, y);
+// let result = calc(multiply, x, y);
 console.log(result);
